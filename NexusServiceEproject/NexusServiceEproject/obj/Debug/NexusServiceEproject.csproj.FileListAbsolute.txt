@@ -1,0 +1,132 @@
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.dll.config
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.pdb
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\Antlr3.Runtime.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\Newtonsoft.Json.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Helpers.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Mvc.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Optimization.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Razor.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Deployment.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Razor.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\WebGrease.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Helpers.xml
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Mvc.xml
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Optimization.xml
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Razor.xml
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.xml
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Deployment.xml
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Razor.xml
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\Newtonsoft.Json.xml
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\bin\Antlr3.Runtime.pdb
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.csprojResolveAssemblyReference.cache
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.dll
+c:\users\sk\documents\visual studio 2013\Projects\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.pdb
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.dll.config
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.pdb
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\Antlr3.Runtime.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\Newtonsoft.Json.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Helpers.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Mvc.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Optimization.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Razor.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Razor.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\WebGrease.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Helpers.xml
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Mvc.xml
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Optimization.xml
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Razor.xml
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.xml
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Razor.xml
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\Newtonsoft.Json.xml
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\bin\Antlr3.Runtime.pdb
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.csprojResolveAssemblyReference.cache
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.dll
+C:\Users\SLKD\Desktop\NexusEprojext\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.pdb
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.dll.config
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.pdb
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Antlr3.Runtime.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Newtonsoft.Json.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Helpers.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Mvc.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Optimization.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Razor.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Razor.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\WebGrease.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Helpers.xml
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Mvc.xml
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Optimization.xml
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Razor.xml
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.xml
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Razor.xml
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Newtonsoft.Json.xml
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Antlr3.Runtime.pdb
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.dll
+C:\Users\asp.APTECHNK\Documents\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.pdb
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.dll.config
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.pdb
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Antlr3.Runtime.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Microsoft.Web.Infrastructure.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Newtonsoft.Json.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Helpers.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Mvc.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Optimization.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Razor.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Deployment.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Razor.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\WebGrease.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Helpers.xml
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Mvc.xml
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Optimization.xml
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Razor.xml
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.xml
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Deployment.xml
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Razor.xml
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Newtonsoft.Json.xml
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Antlr3.Runtime.pdb
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.csprojResolveAssemblyReference.cache
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.dll
+\\server1\Students New Storage\ \_Getintopc.com_rhel-server-6.4-i386-dvd\as\assignmentasp\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.pdb
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.dll.config
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\NexusServiceEproject.pdb
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Antlr3.Runtime.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Newtonsoft.Json.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Helpers.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Mvc.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Optimization.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Razor.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Razor.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\WebGrease.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Helpers.xml
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Mvc.xml
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Optimization.xml
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.Razor.xml
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.xml
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\System.Web.WebPages.Razor.xml
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Newtonsoft.Json.xml
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\Antlr3.Runtime.pdb
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.csprojResolveAssemblyReference.cache
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\obj\Debug\NexusServiceEproject.pdb
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\EntityFramework.dll
+C:\Users\SLKD\Desktop\NexusEprojext-master\NexusServiceEproject\NexusServiceEproject\bin\EntityFramework.xml

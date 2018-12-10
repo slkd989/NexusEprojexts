@@ -1,0 +1,162 @@
+﻿@{
+    ViewBag.Title = "Pay";
+}
+
+<link href="~/Content/css/easy-responsive-tabs.css" rel='stylesheet' type='text/css' />
+<link href="~/Content/css/pay.css" rel="stylesheet" />
+<!-- banner -->
+<div class="w3ls-banner text-center">
+    <div class="container">
+        <h2 class="wthree-title">time to go digital</h2>
+        <h3 class="wthree-subtitle">making a better world</h3>
+    </div>
+</div>
+<!-- //banner -->
+<!-- breadcrumbs -->
+<div class="w3layouts-breadcrumbs text-center">
+    <div class="container">
+        <span class="agile-breadcrumbs"><a href="index.html">Home</a> > <a href="products.html">Digital Cable Tv</a> > <span>Quick pay</span></span>
+    </div>
+</div>
+<div class="container">
+    <div class="w3ls-section">
+        <!-- services -->
+        <div id="w3l-payment-pg" class="w3l-payment-pg ">
+            <div class="container">
+                <h4 class="w3ls-inner-title">Renew your account</h4>
+                <div class="content-wthree">
+                    <div id="horizontalTab">
+                        <ul class="resp-tabs-list">
+                            <li class="w3-pay-active">Account number</li>
+                            <li>VC number</li>
+                            <li>MAC ID</li>
+                            <li>Registered Mobile Number</li>
+                        </ul>
+                        <div class="resp-tabs-container">
+                            <div class="tab1 active">
+                                <form action="#" method="post" class="agile_form">
+                                    <div class="w3ls-text sec-left">
+                                        <label class="contact-form-w3ls">Account no.</label>
+                                        <input placeholder="Enter your Account No. " name="first name" type="text" required="">
+                                    </div>
+                                    <div class="w3ls-text sec-right">
+                                        <label class="contact-form-w3ls">User ID</label>
+                                        <input placeholder="Enter your User Id " name="first name" type="text" required="">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <div class="w3ls-text sec-left">
+                                        <label class="contact-form-w3ls">Registered Mobile Number.</label>
+                                        <input placeholder="Enter your RMN " name="first name" type="text" required="">
+                                    </div>
+                                    <div class="w3ls-text sec-right">
+                                        <label class="contact-form-w3ls">Email</label>
+                                        <input placeholder="Enter your Email" name="first name" type="email" required="">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <div class="w3ls-pay-submit">
+                                        <input type="submit" value="Login">
+                                    </div>
+                                </form>
+                            </div>
+
+                            <div class="tab2">
+                                <form action="#" method="post" class="agile_form">
+                                    <div class="w3ls-text sec-left">
+                                        <label class="contact-form-w3ls">VC No.</label>
+                                        <input placeholder="Enter your VC No." name="first name" type="text" required="">
+                                    </div>
+                                    <div class="w3ls-text sec-right">
+                                        <label class="contact-form-w3ls">User ID</label>
+                                        <input placeholder="Enter your User Id " name="first name" type="text" required="">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <div class="w3ls-text sec-left">
+                                        <label class="contact-form-w3ls">Registered Mobile Number.</label>
+                                        <input placeholder="Enter your RMN " name="first name" type="text" required="">
+                                    </div>
+                                    <div class="w3ls-text sec-right">
+                                        <label class="contact-form-w3ls">Email</label>
+                                        <input placeholder="Enter your Email" name="first name" type="email" required="">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <div class="w3ls-pay-submit">
+                                        <input type="submit" value="Login">
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="tab3">
+                                <form action="#" method="post" class="agile_form">
+                                    <div class="w3ls-text sec-left">
+                                        <label class="contact-form-w3ls">MAC Id.</label>
+                                        <input placeholder="Enter your MAC ID" name="first name" type="text" required="">
+                                    </div>
+                                    <div class="w3ls-text sec-right">
+                                        <label class="contact-form-w3ls">User ID</label>
+                                        <input placeholder="Enter your User Id " name="first name" type="text" required="">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <div class="w3ls-text sec-left">
+                                        <label class="contact-form-w3ls">Registered Mobile Number.</label>
+                                        <input placeholder="Enter your RMN " name="first name" type="text" required="">
+                                    </div>
+                                    <div class="w3ls-text sec-right">
+                                        <label class="contact-form-w3ls">Email</label>
+                                        <input placeholder="Enter your Email" name="first name" type="email" required="">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <div class="w3ls-pay-submit">
+                                        <input type="submit" value="Login">
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="tab4">
+                                <form action="#" method="post" class="agile_form">
+                                    <div class="w3ls-text sec-left">
+                                        <label class="contact-form-w3ls">Registered Mobile Number.</label>
+                                        <input placeholder="Enter your RMN " name="first name" type="text" required="">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <div class="w3ls-pay-submit">
+                                        <input type="submit" value="Login">
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+                <!-- //services -->
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<script src="~/Content/js/SmoothScroll.min.js"></script>
+<script src="~/Content/js/easy-responsive-tabs.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#horizontalTab').easyResponsiveTabs({
+            type: 'default', //Types: default, vertical, accordion
+            width: 'auto', //auto or any width like 600px
+            fit: true, // 100% fit in a container
+            closed: 'accordion', // Start closed if in accordion view
+            activate: function (event) { // Callback function if tab is switched
+                var $tab = $(this);
+                var $info = $('#tabInfo');
+                var $name = $('span', $info);
+                $name.text($tab.text());
+                $info.show();
+            }
+        });
+        $('#verticalTab').easyResponsiveTabs({
+            type: 'vertical',
+            width: 'auto',
+            fit: true
+        });
+    });
+</script>
+<script src="~/Content/js/SmoothScroll.min.js"></script>
