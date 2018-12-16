@@ -7,8 +7,13 @@ u_id int identity primary key,
 u_name nvarchar(50) not null,
 u_Eamil nvarchar(50) not null,
 u_Password nvarchar(50) not null
+
 )
 
+alter table tbl_usersignup
+add u_Contact nvarchar(50) 
+alter table tbl_usersignup
+add Image nvarchar(max)
 
 select * from tbl_usersignup
 

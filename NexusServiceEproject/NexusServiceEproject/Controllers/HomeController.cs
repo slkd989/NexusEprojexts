@@ -2,14 +2,17 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Mail;
+using System.Text;
 using System.Web;
+using System.Web.Hosting;
 using System.Web.Mvc;
 
 namespace NexusServiceEproject.Controllers
 {
     public class HomeController : Controller
     {
-        tbl_loginEntities db = new tbl_loginEntities();
+        tbl_loginEntities1 db = new tbl_loginEntities1();
         public ActionResult Index()
         {
             return View();
@@ -70,6 +73,48 @@ namespace NexusServiceEproject.Controllers
 
             return View();
         }
+        
+            //[HttpGet]
+        //public ActionResult Registration()
+        //{
+          
+        //    return View();
+        //}
+
+        //[HttpPost]
+        //public ActionResult Registration(tbl_usersignup u)
+        //{
+        //    tbl_usersignup user = new tbl_usersignup();
+        //    user.u_name = u.u_name;
+        //    user.u_Eamil = u.u_Eamil;
+        //    user.u_Password = u.u_Password;
+        //    user.Conform_Password = u.Conform_Password;
+        //    db.tbl_usersignup.Add(u);
+        //    db.SaveChanges();
+        //    return View(u);
+        //}
+
+        //[HttpGet]
+        //public ActionResult Registr()
+        //{
+          
+        //    return View();
+        //}
+        //[HttpPost]
+        //public ActionResult Registr(tbl_usersignup u)
+        //{
+        //    tbl_usersignup ui = new tbl_usersignup();
+        //    ui.u_name = u.u_name;
+        //    ui.u_Eamil = u.u_Eamil;
+        //    ui.u_Password = u.u_Password;
+        //    ui.Conform_Password = u.Conform_Password;
+        //    db.tbl_usersignup.Add(u);
+        //    db.SaveChanges();
+             
+        //    return View(u);
+        //}
+
+
 
         public ActionResult logout()
         {
@@ -90,25 +135,36 @@ namespace NexusServiceEproject.Controllers
         [HttpPost]
         public ActionResult login(tbl_usersignup user)
         {
+           
             tbl_usersignup u = db.tbl_usersignup.Where(x => x.u_Eamil == user.u_Eamil && x.u_Password == user.u_Password).SingleOrDefault();
+        
             if (u != null)
             {
+                
                 Session["u_id"] = u.u_id;
                 TempData["username"] = u.u_name;
-                TempData.Keep();
+        
                 return RedirectToAction("Index", "Home");
             }
             else
             {
                 TempData["Valid"] = "Invalid user or Password";
+                return RedirectToAction("Index", "Home");
+
             }
-            TempData.Keep();
-
-
-            ViewBag.Message = "Your contact page.";
-
+        
+           
+        }
+        public ActionResult Confirm(int regID)
+        {
+            ViewBag.regID = regID;
             return View();
+        
+        }
+      
+
+        
+    
         }
 
     }
-}

@@ -59,9 +59,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <ul>
                         <li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">cityline.com</a></li>
                         <li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+1234 567 892</li>
-                        <li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">cityline.com</a></li>
-                        <li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+1234 567 892</li>
-                        @if (Session["u_id"] == null)
+                       @if (Session["u_id"] == null)
                         {
                             <li><i class="glyphicon glyphicon-log-in" aria-hidden="true"></i><a href="#" class="login" data-toggle="modal" data-target="#myModal4">Login</a></li>
                             <li><i class="glyphicon glyphicon-book" aria-hidden="true"></i><a href="#" class="login reg" data-toggle="modal" data-target="#myModal5">Register</a></li>
@@ -264,32 +262,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <!-- //Modal1 -->
     <!-- Modal1 -->
     <div class="modal fade" id="myModal5" tabindex="-1" role="dialog">
-        <div class="modal-dialog">
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    <h4>Register</h4>
-                    <div class="login-form">
-                        <form action="#" method="post">
-                            <input type="text" name="name" placeholder="Name" required="">
-                            <input type="email" name="email" placeholder="E-mail" required="">
-                            <input type="password" name="password" placeholder="Password" required="" id="password1">
-                            <input type="password" name="conform password" placeholder="Confirm Password" required="" id="password2">
-                            <div class="signin-rit">
-                                <span class="agree-checkbox">
-                                    <label class="checkbox"><input type="checkbox" name="checkbox">I agree to your <a class="w3layouts-t" href="terms.html">Terms of Use</a> and <a class="w3layouts-t" href="privacy.html" target="_blank">Privacy Policy</a></label>
-                                </span>
-                            </div>
-                            <div class="tp">
-                                <input type="submit" value="REGISTER NOW">
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
+        @*@Html.Action("Regiter", "Registeruser")*@
     </div>
+
     <!-- //Modal1 -->
     <script type="text/javascript">
         window.onload = function () {

@@ -1,0 +1,79 @@
+﻿@model NexusServiceEproject.Models.tbl_usersignup
+
+@{
+    ViewBag.Title = "Regiter";
+}
+
+<h2>Regiter</h2>
+
+@using (Html.BeginForm("Regiter","Registeruser", FormMethod.Post, new { enctype = "multipart/form-data" })) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>tbl_usersignup</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.u_name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.u_name)
+                @Html.ValidationMessageFor(model => model.u_name)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.u_Eamil, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.u_Eamil)
+                @Html.ValidationMessageFor(model => model.u_Eamil)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.u_Password, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.u_Password)
+                @Html.ValidationMessageFor(model => model.u_Password)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Conform_Password, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Conform_Password)
+                @Html.ValidationMessageFor(model => model.Conform_Password)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.u_Contact, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.u_Contact)
+                @Html.ValidationMessageFor(model => model.u_Contact)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Image, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="file" class="form-control" name="imgfile" id="imgfile" />
+
+               @*@Html.EditorFor(model => model.Image)*@
+
+                @Html.ValidationMessageFor(model => model.Image)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

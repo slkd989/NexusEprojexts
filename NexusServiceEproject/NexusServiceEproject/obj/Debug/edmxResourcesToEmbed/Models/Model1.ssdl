@@ -1,5 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Schema Namespace="tbl_loginModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbl_userreg">
+    <Key>
+      <PropertyRef Name="u_id" />
+    </Key>
+    <Property Name="u_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="u_email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="u_password" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="u_conformpass" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="u_contact" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="u_accountcreatedfrom" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
   <EntityType Name="tbl_usersignup">
     <Key>
       <PropertyRef Name="u_id" />
@@ -8,8 +19,12 @@
     <Property Name="u_name" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="u_Eamil" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="u_Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Conform_Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="u_Contact" Type="nvarchar" MaxLength="50" />
+    <Property Name="Image" Type="nvarchar(max)" />
   </EntityType>
   <EntityContainer Name="tbl_loginModelStoreContainer">
+    <EntitySet Name="tbl_userreg" EntityType="Self.tbl_userreg" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="tbl_usersignup" EntityType="Self.tbl_usersignup" Schema="dbo" store:Type="Tables" />
   </EntityContainer>
 </Schema>

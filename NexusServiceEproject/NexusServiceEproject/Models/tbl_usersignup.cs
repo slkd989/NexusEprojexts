@@ -11,12 +11,24 @@ namespace NexusServiceEproject.Models
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+    using System.ComponentModel.DataAnnotations.Schema;
+
+     
     public partial class tbl_usersignup
     {
         public int u_id { get; set; }
+        [Required(ErrorMessage="*")]
         public string u_name { get; set; }
+        [Required(ErrorMessage = "*")]
         public string u_Eamil { get; set; }
+        [Required(ErrorMessage = "*")]
         public string u_Password { get; set; }
+        [Required(ErrorMessage = "*")]
+        public string Conform_Password { get; set; }
+        [Required(ErrorMessage = "*")]
+        public string u_Contact { get; set; }
+        [Required(ErrorMessage = "*")]
+        public string Image { get; set; }
     }
 }

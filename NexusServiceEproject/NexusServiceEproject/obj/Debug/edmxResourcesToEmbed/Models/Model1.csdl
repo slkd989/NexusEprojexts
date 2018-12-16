@@ -8,8 +8,23 @@
     <Property Name="u_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="u_Eamil" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="u_Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Conform_Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="u_Contact" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Image" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
   </EntityType>
-  <EntityContainer Name="tbl_loginEntities" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="tbl_loginEntities1" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="tbl_usersignup" EntityType="Self.tbl_usersignup" />
+    <EntitySet Name="tbl_userreg" EntityType="tbl_loginModel.tbl_userreg" />
   </EntityContainer>
+  <EntityType Name="tbl_userreg">
+    <Key>
+      <PropertyRef Name="u_id" />
+    </Key>
+    <Property Name="u_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="u_email" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="u_password" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="u_conformpass" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="u_contact" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="u_accountcreatedfrom" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
 </Schema>

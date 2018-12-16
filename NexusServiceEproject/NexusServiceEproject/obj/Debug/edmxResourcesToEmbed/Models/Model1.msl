@@ -1,13 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-  <EntityContainerMapping StorageEntityContainer="tbl_loginModelStoreContainer" CdmEntityContainer="tbl_loginEntities">
+  <EntityContainerMapping StorageEntityContainer="tbl_loginModelStoreContainer" CdmEntityContainer="tbl_loginEntities1">
     <EntitySetMapping Name="tbl_usersignup">
       <EntityTypeMapping TypeName="tbl_loginModel.tbl_usersignup">
         <MappingFragment StoreEntitySet="tbl_usersignup">
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="u_Contact" ColumnName="u_Contact" />
           <ScalarProperty Name="u_id" ColumnName="u_id" />
           <ScalarProperty Name="u_name" ColumnName="u_name" />
           <ScalarProperty Name="u_Eamil" ColumnName="u_Eamil" />
           <ScalarProperty Name="u_Password" ColumnName="u_Password" />
+          <ScalarProperty Name="Conform_Password" ColumnName="Conform_Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_userreg">
+      <EntityTypeMapping TypeName="tbl_loginModel.tbl_userreg">
+        <MappingFragment StoreEntitySet="tbl_userreg">
+          <ScalarProperty Name="u_accountcreatedfrom" ColumnName="u_accountcreatedfrom" />
+          <ScalarProperty Name="u_contact" ColumnName="u_contact" />
+          <ScalarProperty Name="u_conformpass" ColumnName="u_conformpass" />
+          <ScalarProperty Name="u_password" ColumnName="u_password" />
+          <ScalarProperty Name="u_email" ColumnName="u_email" />
+          <ScalarProperty Name="u_id" ColumnName="u_id" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

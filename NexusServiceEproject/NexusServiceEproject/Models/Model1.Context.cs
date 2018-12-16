@@ -13,10 +13,10 @@ namespace NexusServiceEproject.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class tbl_loginEntities : DbContext
+    public partial class tbl_loginEntities1 : DbContext
     {
-        public tbl_loginEntities()
-            : base("name=tbl_loginEntities")
+        public tbl_loginEntities1()
+            : base("name=tbl_loginEntities1")
         {
         }
     
@@ -26,5 +26,6 @@ namespace NexusServiceEproject.Models
         }
     
         public DbSet<tbl_usersignup> tbl_usersignup { get; set; }
+        public DbSet<tbl_usersignup> tbl_userreg { get; set; }
     }
 }
